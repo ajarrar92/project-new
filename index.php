@@ -1,6 +1,6 @@
 <html lang="en">
-    
-  <head>
+
+
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -15,13 +15,16 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <script src ="js/angular.min.js"></script>
-  </head>
+</head>
 
-  <body>
 
+<body>
+        
     
-     <script src = "js/script.js"></script>
-  </body>
+    <p>Testing</p>
+
+    <script src = "js/script.js"></script>
+</body>
 </html>
 
 
